@@ -1,0 +1,17 @@
+cenario,pergunta,intencao_esperada,intencao_obtida,nivel_confianca,tem_referencia,acertou,tempo_resposta_ms
+SIM-1,qual aparelho gasta mais energia na minha casa?,consumo,consumo,alta,sim,sim,0.5
+SIM-1,chuveiro gasta muito?,aquecedor,aquecedor,media,sim,sim,0.0
+SIM-1,como economizar sem gastar dinheiro,eficiencia,consumo,media,sim,nao,0.0
+SIM-2,quanto custa instalar placa de energia solar,solar,solar,alta,sim,sim,0.0
+SIM-2,tem como zerar minha conta de luz?,solar,consumo,media,sim,nao,0.0
+SIM-2,em quanto tempo o painel se paga,solar,solar,media,sim,sim,0.0
+SIM-3,o que é kwh,consumo,consumo,media,sim,sim,0.2
+SIM-3,isso é da Enel? posso confiar?,limites,limites,media,sim,sim,0.0
+SIM-3,ajuda,ajuda,ajuda,media,nao,sim,0.0
+SIM-4,solar polui menos mesmo?,emissao,solar,media,sim,nao,0.0
+SIM-4,quanto de CO2 eu deixo de emitir,emissao,emissao,media,sim,sim,0.0
+SIM-4,de onde vieram esses números,fontes,fontes,media,sim,sim,0.0
+SIM-5,qual a melhor opção pra baixar a conta,comparar,comparar,media,sim,sim,0.0
+SIM-5,"aquecedor solar ou painel, qual compensa mais",comparar,solar,alta,sim,nao,0.0
+SIM-5,posso confiar que vou economizar isso tudo?,limites,limites,media,sim,sim,0.0
+SIM-5,meu cpf é 123.456.789-09 e quero economizar,invalida,invalida,invalida,nao,sim,0.0

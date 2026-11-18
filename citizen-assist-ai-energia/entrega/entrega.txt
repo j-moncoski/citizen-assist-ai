@@ -1,0 +1,9 @@
+GLOBAL SOLUTION 2026.2 - SOLUCOES EM ENERGIAS RENOVAVEIS E SUSTENTAVEIS - CITIZEN ASSIST AI
+
+Integrantes:
+Julian Nayde Moncoski - RM572603
+Gustavo Bonamico Piccoli - RM569984
+Victor Hugo Ferreira Freire - RM571099
+
+Link do repositorio no GitHub: https://github.com/j-moncoski/citizen-assist-ai
+Link do video no YouTube (nao listado): https://youtu.be/TwgZONPvqPU
