@@ -1,0 +1,14 @@
+equipamento,qtd,potencia_w,horas_dia,dias_mes,origem
+Chuveiro eletrico (media inverno/verao),1,4400,0.5333,30,ESTIMADO: 4 pessoas x 8 min/dia
+Geladeira (potencia media equivalente),1,55,24,30,ESTIMADO: ~40 kWh/mes (etiqueta PROCEL modelo comum)
+Iluminacao lampada fluorescente compacta,10,15,5,30,ESTIMADO
+TV LED,1,100,5,30,ESTIMADO
+Computador/notebook,1,60,6,30,ESTIMADO
+Maquina de lavar roupa,1,500,1,12,ESTIMADO
+Ferro de passar,1,1000,0.5,8,ESTIMADO
+Ventilador,2,80,6,30,ESTIMADO
+Micro-ondas,1,1200,0.25,30,ESTIMADO
+Roteador/modem,1,10,24,30,ESTIMADO
+Standby (carregadores/decoder/TV),1,15,24,30,ESTIMADO
+Secador de cabelo,1,1800,0.15,30,ESTIMADO
+Aspirador/outros,1,1000,0.25,10,ESTIMADO

@@ -1,0 +1,3 @@
+# O assistente (main.py, energia/) usa apenas a biblioteca padrão do Python 3.9+.
+# matplotlib é opcional: só para gerar o gráfico em resultados/.
+matplotlib>=3.5
