@@ -1,9 +1,0 @@
-# Resultados (gerado por calculos/gerar_relatorio.py)
-
-Consumo-base: **234.7 kWh/mes** | conta-base: **R$ 234.70/mes** (tarifa estimada R$ 1.00/kWh). Dados ESTIMADOS - ver dados/parametros.json.
-
-| alternativa | renovavel | investimento_rs | economia_rs_mes_ano1 | payback_anos_com_reajuste | payback_anos_sem_reajuste | economia_acumulada_15a_rs | vpl_10pct_rs | co2_evitado_kg_ano1 |
-|---|---|---|---|---|---|---|---|---|
-| A - Eficiencia e habitos (LED + banho 6 min + regua anti-standby) | nao | 140.00 | 35.30 | 0.3 | 0.3 | 8242 | 3838 | 16.3 |
-| B - Aquecedor solar de agua (renovavel termica) | sim | 4000.00 | 40.95 | 7.0 | 8.1 | 6341 | 846 | 22.8 |
-| C - Fotovoltaico on-grid (renovavel eletrica) | sim | 7425.00 | 165.30 | 3.6 | 3.8 | 28993 | 10258 | 76.4 |
